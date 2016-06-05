@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=1
+
 def mult_3n5(upper):
     upper -= 1 # since we're looking for numbers below the input
     cycles = upper//15
